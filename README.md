@@ -49,8 +49,8 @@
 | [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server) | 이주 노동자 대상 임금 체불 대응 서비스                        |  Frontend<br> Backend  | 24.08                 |
 | [**COM-MA**](https://github.com/COM-MA) | 어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스          | Backend  | 24.01~24.07         |
 | [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER) | 건강한 협력을 위한 선택형 동료 평가 서비스                      | Backend  | 24.02                 |
-| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스          | Backend  | 24.12~                 |
-| [**Last anniversary**](https://github.com/33RD-DO-SOPT-SOPKATHON-iOS-TEAM2/SOPKATHON-2-SERVER) | 내가 설계하는 장례식                                         | Backend  | 24.11                 |
+| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스          | Backend  | 23.12~                 |
+| [**Last anniversary**](https://github.com/33RD-DO-SOPT-SOPKATHON-iOS-TEAM2/SOPKATHON-2-SERVER) | 내가 설계하는 장례식                                         | Backend  | 23.11                 |
 | [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server) | 위치 기반 음악 어플                                           | Backend  | 23.07~23.08         |
 | [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6) | 시간표를 활용한 일정 관리 어플                                 | Frontend  | 23.04~23.06         |
 | **우리가 짜는 여행** | 여행 일정 공유 웹서비스                                        | Web  | 22.10~22.12         |
