@@ -18,10 +18,8 @@
 <h4>📕 Language <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <br>
-<img src="https://img.shields.io/badge/C-4D5B5C?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 
