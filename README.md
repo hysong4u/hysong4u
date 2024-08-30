@@ -48,7 +48,6 @@
 | [**Last anniversary**](https://github.com/33RD-DO-SOPT-SOPKATHON-iOS-TEAM2/SOPKATHON-2-SERVER) | 내가 설계하는 장례식                                         | Backend  | 23.11                 |
 | [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server) | 위치 기반 음악 어플                                           | Backend  | 23.07~23.08         |
 | [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6) | 시간표를 활용한 일정 관리 어플                                 | Frontend  | 23.04~23.06         |
-| **우리가 짜는 여행** | 여행 일정 공유 웹서비스                                        | Web  | 22.10~22.12         |
 
 
 
