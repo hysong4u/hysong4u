@@ -39,8 +39,9 @@
 <br>
 
 ## Projects 💻
-| 프로젝트명 | 설명 | 역할 | 기간 |
+| 프로젝트명 | 설명 | 역할 | 기간 | 
 | :------------------------ | :------------------------------------------------------------ | :-------------------------- | :------------------- |
+| [**휴래닛**](https://github.com/re-life2/huranit-server)| 강소기업 재직자를 위한 일생활 균형 솔루션 | Backend | 24.08~24.09 |
 | [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)| 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend | 24.08~ <br>24.01~24.07 |
 | [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server) | 이주 노동자 대상 임금 체불 대응 서비스                        |  Frontend<br> Backend  | 24.08                 |
 | [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER) | 건강한 협력을 위한 선택형 동료 평가 서비스                      | Backend  | 24.02                 |
