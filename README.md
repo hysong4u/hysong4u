@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 
 <br>📗 FrameWork<br><br>
