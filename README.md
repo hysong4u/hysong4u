@@ -43,7 +43,7 @@
 ## Projects 💻
 | 프로젝트명 | 설명 | 역할 | 기간 | 
 | :------------------------ | :------------------------------------------------------------ | :-------------------------- | :------------------- |
-| [**Ansys 챗봇**](https://github.com/HACK-DIVE/hack-dive-server) | LLM기반 Ansys Discovery 챗봇 | Backend Lead | 24.10               |
+| [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server) | LLM기반 Ansys Discovery 챗봇 | Backend Lead | 24.10               |
 | [**피드플로우**](https://github.com/DevoceanYoung-FeedFlow) | 피드백을 쉽고 재미있게! 그룹 피드백 서비스 |  Backend | 24.08 ~               |
 | [**휴래닛**](https://github.com/re-life2) |  강소기업 재직자를 위한 스마트워크센터 활용 일생활 균형 솔루션                      |  Backend<br>Frontend   | 24.08                |
 | [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)| 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead| 24.08~ <br>24.01~24.07 |
