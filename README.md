@@ -10,6 +10,7 @@
 
 ## Contacts ✉️
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hanni/)](https://velog.io/@hanni/)
+[![Devocean Badge](https://img.shields.io/badge/Devocean-0441FF?style=flat-square&logoColor=white&link=https://devocean.sk.com/community/list.do?userId=26315)](https://devocean.sk.com/community/list.do?userId=26315)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hysong4u@gmail.com)](mailto:hysong4u@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hayeon_song@naver.com)](mailto:hayeon_song@naver.com)
 
