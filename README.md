@@ -44,6 +44,7 @@
 ## Projects 💻
 | 프로젝트명 | 설명 | 역할 | 기간 | 
 | :------------------------ | :------------------------------------------------------------ | :-------------------------- | :------------------- |
+| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server) | 레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스        | Backend  | 24.11 ~                 |
 | [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)| 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead| 24.08~ <br>24.01~24.07 |
 | [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스          | Backend  | 23.12~                 |
 | [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server) | LLM기반 Ansys Discovery 챗봇 | Backend Lead | 24.10               |
