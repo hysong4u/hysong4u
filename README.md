@@ -7,6 +7,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhysong4u%2Fhit-counter&count_bg=%235279E8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hysong4u&show_icons=true&theme=default&count-private=true&hide=stars)  
+<br><br>
+
+<br>
+
 
 ## Contacts ✉️
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hanni/)](https://velog.io/@hanni/)
@@ -44,9 +48,9 @@
 ## Projects 💻
 | 프로젝트명 | 설명 | 역할 | 기간 | 
 | :------------------------ | :------------------------------------------------------------ | :-------------------------- | :------------------- |
-| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server) | 레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스        | Backend  | 24.11 ~                 |
+| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server) | [레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스(PC뷰)](https://autorepo.dcs-seochan99.com/)       | Backend  | 24.11 ~                 |
 | [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)| 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead| 24.08~ <br>24.01~24.07 |
-| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스          | Backend  | 23.12~                 |
+| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | [ 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스(모바일뷰)](https://www.sweetgift.kr/)         | Backend  | 23.12~                 |
 | [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server) | LLM기반 Ansys Discovery 챗봇 | Backend Lead | 24.10               |
 | [**휴래닛**](https://github.com/re-life2) |  강소기업 재직자를 위한 스마트워크센터 활용 일생활 균형 솔루션                      |  Backend<br>Frontend   | 24.08                |
 | [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server) | LLM 챗봇을 활용한 이주 노동자 대상 임금 체불 대응 서비스                        |  Backend<br>Frontend   | 24.08                 |
