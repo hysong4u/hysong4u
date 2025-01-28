@@ -4,30 +4,24 @@
 <div align="center">
   
 ## Profile 📁
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhysong4u%2Fhit-counter&count_bg=%235279E8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hysong4u&show_icons=true&theme=default&count-private=true&hide=stars)  
 <br><br>
-
-<br>
 
 
 ## Contacts ✉️
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hanni/)](https://velog.io/@hanni/)
 [![Devocean Badge](https://img.shields.io/badge/Devocean-0441FF?style=flat-square&logoColor=white&link=https://devocean.sk.com/community/list.do?userId=26315)](https://devocean.sk.com/community/list.do?userId=26315)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hysong4u@gmail.com)](mailto:hysong4u@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hayeon_song@naver.com)](mailto:hayeon_song@naver.com)
 
 ## Tech Stack 📚
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-012A4A?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Spring%20Boot-4DB33D?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-4DB33D?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <br>
 <br>
