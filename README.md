@@ -10,9 +10,9 @@
 
 
 ## Contacts ✉️
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hysong4u@gmail.com)](mailto:hysong4u@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hanni/)](https://velog.io/@hanni/)
 [![Devocean Badge](https://img.shields.io/badge/Devocean-0441FF?style=flat-square&logoColor=white&link=https://devocean.sk.com/community/list.do?userId=26315)](https://devocean.sk.com/community/list.do?userId=26315)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hysong4u@gmail.com)](mailto:hysong4u@gmail.com)
 
 ## Tech Stack 📚
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -28,28 +28,30 @@
 
 ## Awards 🏆
 
-| 연도  | 내용 |
-|-------|----------------------------------------------------|
-| 2024.11  | 스마일게이트 사회문제해결 아이디어톤 Expected Idea(2위)|
-| 2024.11  | AI SPARKS 2024 창업 아이디어 공모전 최우수상|
-| 2024.10  | 사이드임팩트 우수 프로젝트 선정 (스파크 트랙, 500만원 지원)|
-| 2024.10  | DIVE 글로벌 데이터 해커톤 발제사 1위 (Ansys 대표이사상) |
-| 2024.08  | 새싹해커톤 우수상 (서울경제진흥원 대표이사상) |
-| 2024.05  | Google Solution Challenge Global Top 100        |
-| 2024.01  | IT벤처창업동아리 SOPT 33기 앱잽 최우수상        |
-
+| Description                                                | Period     |
+|------------------------------------------------------------|------------|
+| [스마일게이트] 사회문제해결 ALL DAY 아이디어톤 Expected Idea(2위) | 2024.11    |
+| [홍익대학교 벤처창업기관 HIVe] 2024 AI SPARKS 창업 아이디어 공모전 최우수상 | 2024.11    |
+| [브라이언임팩트] 사이드임팩트 스파크 트랙 선정 (500만원 지원)      | 2024.10    |
+| [부산광역시] 2024 DIVE 글로벌 데이터 해커톤 발제사 1위 (Ansys 대표이사상) | 2024.10    |
+| [서울경제진흥원] 새싹해커톤 우수상 (서울경제진흥원 대표이사상)     | 2024.08    |
+| [Google] Google Solution Challenge 2024 Global Top 100      | 2024.05    |
+| IT벤처창업동아리 SOPT 33기 앱잽 최우수상                        | 2024.01    |
 
 ## Projects 💻
-| 프로젝트명 | 설명 | 역할 | 기간 | 
-| :------------------------ | :------------------------------------------------------------ | :-------------------------- | :------------------- |
-| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server) | [레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스(PC뷰)](https://autorepo.dcs-seochan99.com/)       | Backend  | 24.11 ~                 |
-| [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)| 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead| 24.08~ <br>24.01~24.07 |
-| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | [ 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스(모바일뷰)](https://www.sweetgift.kr/)         | Backend  | 23.12~                 |
-| [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server) | LLM기반 Ansys Discovery 챗봇 | Backend Lead | 24.10               |
-| [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server) | LLM 챗봇을 활용한 이주 노동자 대상 임금 체불 대응 서비스                        |  Backend<br>Frontend   | 24.08                 |
-| [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER) | 건강한 협력을 위한 선택형 동료 평가 서비스                      | Backend Lead| 24.02                 |
-| [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server) | 위치 기반 음악 어플                                           | Backend  | 23.07~23.08         |
-| [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6) | 시간표를 활용한 일정 관리 어플                                 | Frontend  | 23.04~23.06         |
+| Project Name                                                                                      | Description                                                                                 | Role          | Period        |
+| :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------ | :------------ |
+| [**ArtNe**](https://github.com/ArtNeplatform/back)                                                 | 예술대 학생을 위한 경매 서비스                                                              | Backend Lead  | 25.01~        |
+| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server)                                     | [레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스(PC뷰)](https://autorepo.dcs-seochan99.com/) | Backend       | 24.11~        |
+| [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)                 | 농인 부모와 코다간의 정서적 교감을 지원하는 AI 기반 서비스<br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead  | 24.08~ <br>24.01~24.07 |
+| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server)                                      | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스                                      | Backend       | 23.12~24.12   |
+| [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server)                                 | LLM기반 Ansys Discovery 챗봇                                                                 | Backend Lead  | 24.10         |
+| [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server)                                 | LLM 챗봇을 활용한 이주 노동자 대상 임금 체불 대응 서비스                                     | Backend<br>Frontend | 24.08         |
+| [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER)                                            | 건강한 협력을 위한 선택형 동료 평가 서비스                                                  | Backend Lead  | 24.02         |
+| [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server)                                  | 위치 기반 음악 어플                                                                         | Backend       | 23.07~23.08   |
+| [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6)                               | 시간표를 활용한 일정 관리 어플                                                               | Frontend      | 23.04~23.06   |
+
+
 
 
 </div><br>
