@@ -30,13 +30,13 @@
 
 | Description                                                | Period     |
 |------------------------------------------------------------|------------|
-| [한국정책학회] Asia Impact Hackathon 2025 장려상 | 2025.04    | 
+| [한국정책학회 KAPS] Asia Impact Hackathon 2025 MERIT AWARD | 2025.04    | 
 | [스마일게이트] 사회문제해결 ALL DAY 아이디어톤 Expected Idea(2위) | 2024.11    |
 | [홍익대학교 벤처창업기관 HIVe] 2024 AI SPARKS 창업 아이디어 공모전 최우수상 | 2024.11    |
 | [브라이언임팩트] 사이드임팩트 스파크 트랙 선정 (500만원 지원)      | 2024.10    |
 | [부산광역시] 2024 DIVE 글로벌 데이터 해커톤 발제사 1위 (Ansys 대표이사상) | 2024.10    |
 | [서울경제진흥원] 새싹해커톤 우수상 (서울경제진흥원 대표이사상)     | 2024.08    |
-| [Google] Google Solution Challenge 2024 Global Top 100      | 2024.05    |
+| [Google] Solution Challenge 2024 Global Top 100      | 2024.05    |
 | IT벤처창업동아리 SOPT 33기 앱잽 최우수상                        | 2024.01    |
 
 ## Projects 💻
