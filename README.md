@@ -40,18 +40,18 @@
 | IT벤처창업동아리 SOPT 33기 앱잽 최우수상                        | 2024.01    |
 
 ## Projects 💻
-| Project Name                                                                                      | Description                                                                                 | Role          | Period        |
-| :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------ | :------------ |
-| [**FarmSystem**](https://github.com/DguFarmSystem/HomePage-BE)                                                 | [팜시스템 동아리 웹사이트(PC, 모바일뷰)](https://www.farmsystem.kr/)                                                      | Backend  | 25.02~       |
-| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server)                                     | [레포지토리 세팅(라벨,PR/ISSUE 템플릿, README) 자동화 서비스(PC뷰)](https://autorepo.dcs-seochan99.com/) | Backend       | 24.11~        |
-| [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA)                 | 농인 부모와 청인 자녀(코다)간 정서적 유대 강화를 위한 AI 기반 양방향 소통 플랫폼 <br>어린이 코다를 위한 AI 카메라 기반 수화 학습 교육 서비스 | Backend Lead  | 24.08~ <br>24.01~24.07 |
-| [**ArtNe**](https://github.com/ArtNeplatform/back)                                                 | 예술대 학생을 위한 작품 공유 & 경매 플랫폼                                                        | Backend Lead  | 25.01~25.02        |
-| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server)                                      | 스윗한 마음이 모여 하나의 선물이 되다, 선물 준비 서비스                                      | Backend       | 23.12~24.12   |
-| [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server)                                 | LLM기반 Ansys Discovery 챗봇                                                                 | Backend Lead  | 24.10         |
-| [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server)                                 | LLM 챗봇을 활용한 이주 노동자 대상 임금 체불 대응 서비스                                     | Backend<br>Frontend | 24.08         |
-| [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER)                                            | 건강한 협력을 위한 선택형 동료 평가 서비스                                                  | Backend Lead  | 24.02         |
-| [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server)                                  | 위치 기반 음악 아카이빙 서비스                                                                         | Backend       | 23.07~23.08   |
-| [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6)                               | 에타 시간표를 활용한 일정 관리 서비스                                                           | Frontend      | 23.04~23.06   |
+| Project Name | Description | Role | Period |
+|:-------------|:------------|:-----|:-------|
+| [**FarmSystem**](https://github.com/DguFarmSystem/HomePage-BE) | [팜시스템 동아리 웹사이트(PC, 모바일뷰)](https://www.farmsystem.kr/) | Backend | 25.02~ |
+| [**AutoRepo**](https://github.com/2024-2-3M1S/AutoRepo-Server) | [레포지토리 세팅 자동화 서비스(PC뷰)](https://autorepo.dcs-seochan99.com/) | Backend | 24.11~ |
+| [**COM-US**](https://github.com/COM-US)<br>[**COM-MA**](https://github.com/COM-MA) | 농인 부모와 청인 자녀(코다)간 AI 소통 플랫폼<br>어린이 코다를 위한 AI 수화 학습 서비스 | Backend Lead | 24.08~25.06<br>24.01~24.07 |
+| [**ArtNe**](https://github.com/ArtNeplatform/back) | 예술대 학생을 위한 작품 공유·경매 플랫폼 | Backend Lead | 25.01~25.02 |
+| [**SWEET**](https://github.com/SWEET-DEVELOPERS/sweet-server) | 공동 선물 준비 서비스 | Backend | 23.12~24.12 |
+| [**Ansys Chatbot**](https://github.com/HACK-DIVE/hack-dive-server) | LLM 기반 Ansys Discovery 챗봇 | Backend Lead | 24.10 |
+| [**Wage Keeper**](https://github.com/SESAC-PAY/wage-keeper-server) | 이주 노동자 임금 체불 대응 서비스 | Backend<br>Frontend | 24.08 |
+| [**PEER:Re**](https://github.com/PEER-Re/PEERRE-SERVER) | 선택형 동료 평가 서비스 | Backend Lead | 24.02 |
+| [**Munnecting**](https://github.com/Mu-necting/Mu-necting_Server) | 위치 기반 음악 아카이빙 서비스 | Backend | 23.07~23.08 |
+| [**WORKAHALLIC**](https://github.com/CSID-DGU/2023-1-OSSP2-HotSix-6) | 에타 시간표 기반 일정 관리 서비스 | Frontend | 23.04~23.06 |
 
 
 
