@@ -3,12 +3,6 @@
 
 <div align="center">
   
-## Profile 📁
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hysong4u&show_icons=true&theme=default&count-private=true&hide=stars)  
-<br><br>
-
-
 ## Contacts ✉️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hysong4u@gmail.com)](mailto:hysong4u@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hanni/)](https://velog.io/@hanni/)
